@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Hyperledger Fabric
-        uses: arjundashrath/setup-hlf@v0.0.1
+        uses: pujanayak/setup-hlf@v0.0.1
 ```
 
 #### Action Inputs
@@ -21,4 +21,4 @@ jobs:
 
 
 
-feel free to contact me at *arjundashrath@gmail.com*
+feel free to contact me at *pujanayak@gmail.com*
